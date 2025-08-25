@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Comunicaciones y Arte (Que creativo)</title>
+    <link href="https://evansphall.github.io/arte-comunicaciones/feed.xml" rel="self" />
+    <link href="https://evansphall.github.io/arte-comunicaciones" />
+    <updated>2025-08-24T17:33:43-05:00</updated>
+    <author>
+        <name>Evan Hall</name>
+    </author>
+    <id>https://evansphall.github.io/arte-comunicaciones</id>
+
+    <entry>
+        <title>Composición Visual - Inkscape</title>
+        <author>
+            <name>Evan Hall</name>
+        </author>
+        <link href="https://evansphall.github.io/arte-comunicaciones/composicion-visual-inkscape.html"/>
+        <id>https://evansphall.github.io/arte-comunicaciones/composicion-visual-inkscape.html</id>
+            <category term="Composición visual"/>
+
+        <updated>2025-08-24T17:32:45-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Fue una árdua pelea contra el programa y el trackpad de mi laptop, pero aquí estámos. Esta composición se basa en
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Fue una árdua pelea contra el programa y el trackpad de mi laptop, pero aquí estámos.</p>
+<p>Esta composición se basa en</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

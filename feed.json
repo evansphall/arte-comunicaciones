@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Comunicaciones y Arte (Que creativo)",
+    "description": "",
+    "home_page_url": "https://evansphall.github.io/arte-comunicaciones",
+    "feed_url": "https://evansphall.github.io/arte-comunicaciones/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Evan Hall"
+    },
+    "items": [
+        {
+            "id": "https://evansphall.github.io/arte-comunicaciones/composicion-visual-inkscape.html",
+            "url": "https://evansphall.github.io/arte-comunicaciones/composicion-visual-inkscape.html",
+            "title": "Composición Visual - Inkscape",
+            "summary": "Fue una árdua pelea contra el programa y el trackpad de mi laptop, pero aquí estámos. Esta composición se basa en",
+            "content_html": "<p>Fue una árdua pelea contra el programa y el trackpad de mi laptop, pero aquí estámos.</p>\n<p>Esta composición se basa en</p>",
+            "author": {
+                "name": "Evan Hall"
+            },
+            "tags": [
+                   "Composición visual"
+            ],
+            "date_published": "2025-08-24T17:32:45-05:00",
+            "date_modified": "2025-08-24T17:33:43-05:00"
+        }
+    ]
+}
