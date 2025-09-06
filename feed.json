@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://evansphall.github.io/arte-comunicaciones/inkscape-composicion-1.html",
+            "url": "https://evansphall.github.io/arte-comunicaciones/inkscape-composicion-1.html",
+            "title": "Inkscape - Composición 1",
+            "summary": "Fue una árdua pelea contra el programa y el trackpad de mi laptop, pero aquí estámos. Esta composición busca representar tanto un objeto como una&hellip;",
+            "content_html": "<p>Fue una árdua pelea contra el programa y el trackpad de mi laptop, pero aquí estámos.</p>\n<p>Esta composición busca representar tanto un objeto como una actividad, separando lo que podrían considerarse como sus \"componentes\" y haciendolos coexistir en un espacio. En este caso, elegí la idea de una garza de papel y me enfoqué en la idea del Origami. </p>\n<p>Además, me propuse a usar una paleta de color azúl debido a que es un color que se relaciona muy cercanamente a las garzas de papel en mi mente. Continuando el hilo de los colores, la razón por la cual se encuentra todo en un espacio oscuro es que eel origami me parece una actividad serena y callada, como la noche. La presencia de las lunas apoya a ambos de estos conceptos, la importancia de la simetría y los dobleces, y ambientación nocturna.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://evansphall.github.io/arte-comunicaciones/media/posts/3/Blake-Donahue-real-not-fake.png\" alt=\"\" width=\"1082\" height=\"607\" sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://evansphall.github.io/arte-comunicaciones/media/posts/3/responsive/Blake-Donahue-real-not-fake-xs.png 300w ,https://evansphall.github.io/arte-comunicaciones/media/posts/3/responsive/Blake-Donahue-real-not-fake-sm.png 480w ,https://evansphall.github.io/arte-comunicaciones/media/posts/3/responsive/Blake-Donahue-real-not-fake-md.png 768w ,https://evansphall.github.io/arte-comunicaciones/media/posts/3/responsive/Blake-Donahue-real-not-fake-lg.png 1024w\"></figure>",
+            "author": {
+                "name": "Evan Hall"
+            },
+            "tags": [
+                   "Composición visual"
+            ],
+            "date_published": "2025-09-05T23:51:14-05:00",
+            "date_modified": "2025-09-05T23:51:14-05:00"
+        },
+        {
             "id": "https://evansphall.github.io/arte-comunicaciones/inkscape-composicion-2.html",
             "url": "https://evansphall.github.io/arte-comunicaciones/inkscape-composicion-2.html",
             "title": "Inkscape - Composición 2",
@@ -37,7 +52,7 @@
                    "Composición visual"
             ],
             "date_published": "2025-08-24T17:32:45-05:00",
-            "date_modified": "2025-09-05T23:48:31-05:00"
+            "date_modified": "2025-09-05T23:50:36-05:00"
         }
     ]
 }
