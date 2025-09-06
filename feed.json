@@ -10,11 +10,25 @@
     },
     "items": [
         {
+            "id": "https://evansphall.github.io/arte-comunicaciones/inkscape-composicion-2.html",
+            "url": "https://evansphall.github.io/arte-comunicaciones/inkscape-composicion-2.html",
+            "title": "Inkscape - Composición 2",
+            "summary": "Nuevamente me apunté al reto de utilizar mi trackpad y mis levemente mejoradas habilidades en el programa para crear otra imágen. En esta ocasión, busqué&hellip;",
+            "content_html": "<p>Nuevamente me apunté al reto de utilizar mi trackpad y mis levemente mejoradas habilidades en el programa para crear otra imágen.</p>\n<p>En esta ocasión, busqué capturar el sentimiento de una actividad mostrando el lugar en que se ambienta y las herramientas que se usan en ella. El tema de la imágen es patinar, incluso si no hay patines en ella, pero si se encuentra su ambientación, como: la calle, el día, el viento, etc.</p>\n<p>En cuanto a los elementos de esta composición, se encuentran: el cielo y el viento, siendo azul y blanco para mostrar que es de día; una carretera; rodilleras, de forma triangular y amarillas ara excaltar el componente de riesgo de la actividad y unos patines, separados en la bota y las ruedas. Considero que todas estas partes se unen para representar la adrenalina y riesgo de la actividad, pero, al mismo tiempo, la diversión y luz que puede traer a tu tiempo libre.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://evansphall.github.io/arte-comunicaciones/media/posts/2/William-Cutlocke-will-be-real-tomorrow.png\" alt=\"\" width=\"1078\" height=\"1347\" sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://evansphall.github.io/arte-comunicaciones/media/posts/2/responsive/William-Cutlocke-will-be-real-tomorrow-xs.png 300w ,https://evansphall.github.io/arte-comunicaciones/media/posts/2/responsive/William-Cutlocke-will-be-real-tomorrow-sm.png 480w ,https://evansphall.github.io/arte-comunicaciones/media/posts/2/responsive/William-Cutlocke-will-be-real-tomorrow-md.png 768w ,https://evansphall.github.io/arte-comunicaciones/media/posts/2/responsive/William-Cutlocke-will-be-real-tomorrow-lg.png 1024w\"></figure>",
+            "author": {
+                "name": "Evan Hall"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-05T23:31:18-05:00",
+            "date_modified": "2025-09-05T23:46:27-05:00"
+        },
+        {
             "id": "https://evansphall.github.io/arte-comunicaciones/composicion-visual-inkscape.html",
             "url": "https://evansphall.github.io/arte-comunicaciones/composicion-visual-inkscape.html",
-            "title": "Composición Visual - Inkscape",
-            "summary": "Fue una árdua pelea contra el programa y el trackpad de mi laptop, pero aquí estámos. Esta composición se basa en",
-            "content_html": "<p>Fue una árdua pelea contra el programa y el trackpad de mi laptop, pero aquí estámos.</p>\n<p>Esta composición se basa en</p>",
+            "title": "Inkscape - Composición 1",
+            "summary": "Fue una árdua pelea contra el programa y el trackpad de mi laptop, pero aquí estámos. Esta composición busca representar tanto un objeto como una&hellip;",
+            "content_html": "<p>Fue una árdua pelea contra el programa y el trackpad de mi laptop, pero aquí estámos.</p>\n<p>Esta composición busca representar tanto un objeto como una actividad, separando lo que podrían considerarse como sus \"componentes\" y haciendolos coexistir en un espacio. En este caso, elegí la idea de una garza de papel y me enfoqué en la idea del Origami. </p>\n<p>Además, me propuse a usar una paleta de color azúl debido a que es un color que se relaciona muy cercanamente a las garzas de papel en mi mente. Continuando el hilo de los colores, la razón por la cual se encuentra todo en un espacio oscuro es que eel origami me parece una actividad serena y callada, como la noche. La presencia de las lunas apoya a ambos de estos conceptos, la importancia de la simetría y los dobleces, y ambientación nocturna.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://evansphall.github.io/arte-comunicaciones/media/posts/1/Blake-Donahue-real-not-fake.png\" alt=\"\" width=\"1082\" height=\"607\" sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://evansphall.github.io/arte-comunicaciones/media/posts/1/responsive/Blake-Donahue-real-not-fake-xs.png 300w ,https://evansphall.github.io/arte-comunicaciones/media/posts/1/responsive/Blake-Donahue-real-not-fake-sm.png 480w ,https://evansphall.github.io/arte-comunicaciones/media/posts/1/responsive/Blake-Donahue-real-not-fake-md.png 768w ,https://evansphall.github.io/arte-comunicaciones/media/posts/1/responsive/Blake-Donahue-real-not-fake-lg.png 1024w\"></figure>",
             "author": {
                 "name": "Evan Hall"
             },
@@ -22,7 +36,7 @@
                    "Composición visual"
             ],
             "date_published": "2025-08-24T17:32:45-05:00",
-            "date_modified": "2025-08-24T17:33:43-05:00"
+            "date_modified": "2025-09-05T23:31:48-05:00"
         }
     ]
 }
