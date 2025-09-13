@@ -3,12 +3,35 @@
     <title>Comunicaciones y Arte (Que creativo)</title>
     <link href="https://evansphall.github.io/arte-comunicaciones/feed.xml" rel="self" />
     <link href="https://evansphall.github.io/arte-comunicaciones" />
-    <updated>2025-09-05T23:51:14-05:00</updated>
+    <updated>2025-09-12T23:44:59-05:00</updated>
     <author>
         <name>Evan Hall</name>
     </author>
     <id>https://evansphall.github.io/arte-comunicaciones</id>
 
+    <entry>
+        <title>Krita - Webcómic</title>
+        <author>
+            <name>Evan Hall</name>
+        </author>
+        <link href="https://evansphall.github.io/arte-comunicaciones/krita-webcomic.html"/>
+        <id>https://evansphall.github.io/arte-comunicaciones/krita-webcomic.html</id>
+            <category term="Cómics :P"/>
+
+        <updated>2025-09-12T23:44:43-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Para este proyecto, me junté con mis amigos Camilo, Hash y Manuela; nos dividimos el trabajo en 4 partes, boceto, líneas, colores y edición/lettering. En&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="undefined" alt="" data-is-external-image="true"></figure>Para este proyecto, me junté con mis amigos Camilo, Hash y Manuela; nos dividimos el trabajo en 4 partes, boceto, líneas, colores y edición/lettering.</p>
+<p>En cuanto el concepto, buscamos, además de contar un chiste, iniciar una conversación sobre lo que significa Garfield en la cultura en que vivimos. Para esto, simulamos el estilo de Jim Davis, pero cambiamos al gato principal: Esto propone la pregunta: ¿Podría cualquier gato ser Garfield? Una pregunta que explora el rol del ícono y como el tono de sus tiras podría cambiar por completo si estuviese en las manos de otro artista. En resumen, buscamos explorar los cambios del medio de las tiras cómicas de Garfield.</p>
+<figure class="post__image"><img loading="lazy"  src="https://evansphall.github.io/arte-comunicaciones/media/posts/4//Webcomic-Garfieldcoree21.png" alt="" width="2048" height="2048" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://evansphall.github.io/arte-comunicaciones/media/posts/4//responsive/Webcomic-Garfieldcoree21-xs.png 300w ,https://evansphall.github.io/arte-comunicaciones/media/posts/4//responsive/Webcomic-Garfieldcoree21-sm.png 480w ,https://evansphall.github.io/arte-comunicaciones/media/posts/4//responsive/Webcomic-Garfieldcoree21-md.png 768w ,https://evansphall.github.io/arte-comunicaciones/media/posts/4//responsive/Webcomic-Garfieldcoree21-lg.png 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Inkscape - Composición 1</title>
         <author>
